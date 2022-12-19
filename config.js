@@ -47,28 +47,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/levisuaran?igshid=YmMyMTA2M2Y=' //Link Instagrammu
-global.sgh = 'https://github.com/victorbot22' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/LwYaRgzmbkTJ8dPuWej4mG'
+global.sig = 'https://instagram.com/habibimampro?igshid=YmMyMTA2M2Y=' //Link Instagrammu
+global.sgh = 'https://github.com/Mr-HabibZ1' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/E0vOxKBXgjw7BsCjFKogxd'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085172446692' //Nomor Danamu
-global.ppulsa = '085172446692' //Nomor SimCard Yang Kamu Pake
+global.pdana = '082160795453' //Nomor Danamu
+global.ppulsa = '082160795453' //Nomor SimCard Yang Kamu Pake
+global.pgopay = '082160795453' //Nomor Gopaymu
 global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282131369002' //Nomor Bot
-global.nomorown = '6282245768235' //Nomor Owner
-global.namebot = 'VICTOR BOT' //Nama Bot
-global.nameown = 'Levi Gyz' // Nama Owner
+global.nomorbot = '6287893575487' //Nomor Bot
+global.nomorown = '6282160795453' //Nomor Owner
+global.namebot = 'HIKANA BOTZ' //Nama Bot
+global.nameown = 'Imam Habib Modz' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285172446692'], 
-  ['6282245768235', '❦ LEVIGYZ? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6282160795453'], 
+  ['6282182533461', '❦ Imam Habib Modz? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -100,9 +101,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 VICTOR BOT 汉  」' //Main Watermark
-global.wm2 = '©CREATED BY VICTOR BOT'
-global.wm3 = '⫹⫺ VICTOR BOT'
+global.wm = '                「 HIKANA BOT 汉  」' //Main Watermark
+global.wm2 = '©CREATED BY Imam Habib Modz'
+global.wm3 = '⫹⫺ HIKANA BOTZ'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -331,7 +332,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-3617-8354'
+global.phn = '+62 821-6079-5453'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -344,7 +345,7 @@ global.djson = 'application/json'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '5' // default 10TB
+global.fsizedoc = '5' // default 100TB
 global.fpagedoc = '5'
 
 /*=========== HIASAN ===========*/
@@ -371,10 +372,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
+global.stickpack = 'Cʀᴇᴀᴛᴇᴅ Bʏ Imam Habib Modz'
 global.stickauth = `☂︎\nV\nC\nT\nR\-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ VICTOR BOT'
+global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ Imam Habib Modz'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ Imam Habib Modz'
 
 global.multiplier = 38 // The higher, The harder levelup
 
