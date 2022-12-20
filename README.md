@@ -25,7 +25,7 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 ---------
 
 ## ```Connect With Me 📞``` 
-  <a href="https://wa.me/6285736178354">
+  <a href="https://wa.me/6282160795453">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/Xiao_yan_21">
@@ -87,7 +87,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/ImYanXiao/Elaina-MultiDevice
+$ git clone https://github.com/Mr-HabibZ1/RullBOT
 $ cd Elaina-MultiDevice
 $ npm i 
 ```
@@ -130,8 +130,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-cd Elaina-MultiDevice
+git clone https://github.com/Mr-HabibZ1/RullBOT
+cd RullBOT
 npm install
 npm update
 ```
@@ -146,8 +146,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-cd Elaina-MultiDevice
+git clone https://github.com/Mr-HabibZ1/RullBOT
+cd RullBOT
 npm install
 npm update
 ```
