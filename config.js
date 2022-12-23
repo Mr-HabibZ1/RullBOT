@@ -77,10 +77,10 @@ global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user
 
 
 global.lolkey = '8dfb68ce0e528ecb3ec40cbe' //punya rull
-global.xkey = '74faa6faaf53' //punyarull note sementara pakr zenzapis xteam lagi eror huhu
+global.xkey = '9267ic6a0f1' //punyarull note sementara pakr zenzapis xteam lagi eror huhu
 /*============== API ==============*/
 global.APIs = { // API Prefix
-  // name: 'https://website'
+  // name: 'https://danzzapi.xyz'
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
@@ -91,10 +91,10 @@ global.APIs = { // API Prefix
   males : 'https://malesin.xyz'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEYMU',
+  // 'https://danzzapi.xyz': 'apikey'
+  'https://danzzapi.xyz': 'APIKEYMU',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'Apikeymu',
+  'https://danzzapi.xyz': 'Apikeymu',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://violetics.pw': 'beta'
 }
